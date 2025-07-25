@@ -22,7 +22,5 @@ Web_DevSUMMER (HTML) – Static site development
 
 Email: gosar@usc.edu
 
-Portfolio: psg0009.github.io
-
 Feel free to explore any repository and reach out for collaboration or questions. Looking forward to connecting!
 
